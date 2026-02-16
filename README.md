@@ -1,4 +1,8 @@
-﻿# PyWorld3-03: Canadian Population Dynamics Model
+﻿```markdown
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://pyworld3-canadian-population.streamlit.app)
+```
+# PyWorld3-03: Canadian Population Dynamics Model
 
 A system dynamics model built on the World3 framework, adapted for Canadian demographics with real economic data integration and immigration feedback loops.
 
