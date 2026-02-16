@@ -1,0 +1,23 @@
+# PyWorld3-03 Canadian Population & Agriculture Model
+# Core dependencies for the World3 system dynamics model
+
+# Core scientific computing
+numpy>=1.22,<2.3
+scipy>=1.7,<2.0
+matplotlib>=3.5
+
+# Data handling
+pandas>=1.4
+
+# Interactive UI (Streamlit app)
+streamlit>=1.25
+plotly>=5.10
+
+# Jupyter notebook support
+jupyter
+ipykernel
+ipywidgets
+nbformat
+
+# Spreadsheet support (for validation data)
+openpyxl>=3.0
